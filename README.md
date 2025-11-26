@@ -39,8 +39,8 @@ A highly efficient Express.js API featuring advanced in-memory caching (LRU), so
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd assessment_task
+git clone git@github.com:mohammad-ammad/task.git
+cd task
 ```
 
 2. **Install dependencies**
